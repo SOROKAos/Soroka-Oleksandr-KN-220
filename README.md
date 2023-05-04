@@ -13,7 +13,7 @@
     - vi. Написав свій варіант коду з помилкою
 - вставлені рисунки (скріншоти екрана або фотографії виконаного завдання у зошиті);
 
-![alt text](https://github.com/SOROKAos/Soroka-Oleksandr-KN-220/blob/main/images/code1.PNG)
+![alt text](https://github.com/SOROKAos/Soroka-Oleksandr-KN-220/blob/main/images/code1.png?raw=true)
 ![alt text](https://github.com/SOROKAos/Soroka-Oleksandr-KN-220/blob/main/images/code2.PNG)
 ![alt text](https://github.com/bteodorovsky/2labor/blob/main/images/result.PNG)
 
