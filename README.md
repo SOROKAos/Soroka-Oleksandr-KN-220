@@ -13,36 +13,15 @@
     - vi. Написав свій варіант коду з помилкою
 - вставлені рисунки (скріншоти екрана або фотографії виконаного завдання у зошиті);
 
-![alt text](https://github.com//SOROKAos/Soroka-Oleksandr-KN-220/blob/main/images/code1.png)
-![alt text](https://github.com/SOROKAos/Soroka-Oleksandr-KN-220/blob/main/images/code2.png)
-![alt text](https:///SOROKAos/Soroka-Oleksandr-KN-220/blob/main/images/code1.png)
+![alt text](https://github.com/SOROKAos/Soroka-Oleksandr-KN-220/blob/main/images/code1.PNG)
+![alt text](https://github.com/SOROKAos/Soroka-Oleksandr-KN-220/blob/main/images/code2.PNG)
+![alt text](https://github.com/bteodorovsky/2labor/blob/main/images/result.PNG)
+
+ - Результати виконання завдання 2:
+ ![alt text](https://github.com/SOROKAos/Soroka-Oleksandr-KN-220/blob/main/images/result2.PNG)
+ ![alt text](https://github.com/SOROKAos/Soroka-Oleksandr-KN-220/blob/main/images/result3.PNG)
+ ![alt text](https://github.com/SOROKAos/Soroka-Oleksandr-KN-220/blob/main/images/result4.PNG)
 
 - вставлений код / текстовий або числовий результат / інші результати:
-- Результати:
-- i.
-- [1, 2, 3, 4, 5]
-- {1, 2, 3, 4}
-- ii.
-- Константа нуля: 0
-- Константа значення True: True
-- iii.
-- 5
-- 2.19
-- iv.
-- 1
-- 2
-- 3
-- 4
-- apple
-- banana
-- cherry
-- v.
-- Число є від'ємним
-- True
-- vi.
-- Помилка: Ділення на нуль!
-- Кінець програми
-- vii.
-- viii.
-- 25
+
 ### Висновок: Завдяки цій програмі я оволодів основами програмування на Python
